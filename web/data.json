@@ -1,0 +1,30 @@
+[
+   {
+      "string": "satu",
+      "integer": "123",
+      "float": "12.2",
+      "date": "2020-08-26",
+      "boolean": "true"
+   },
+   {
+      "string": "dua",
+      "integer": "123",
+      "float": "12.2",
+      "date": "2020-08-26",
+      "boolean": "true"
+   },
+   {
+      "string": "tiga",
+      "integer": "3",
+      "float": "3.1",
+      "date": "2020-09-02",
+      "boolean": "false"
+   },
+   {
+      "string": "empat",
+      "integer": "4",
+      "float": "4.2",
+      "date": "2020-09-04",
+      "boolean": "true"
+   }
+]
